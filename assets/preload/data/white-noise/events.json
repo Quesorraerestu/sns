@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "suicidebackground",
+		"player1": "gf-invisible",
+		"player2": "tv",
+		"player3": null,
+		"events": [
+			[
+				10555.5555555556,
+				[
+					[
+						"Flash Camera",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				24074.0740740741,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Flash Camera(black)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				66018.5185185185,
+				[
+					[
+						"Flash Camera(black)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				71944.4444444444,
+				[
+					[
+						"Flash Camera(black)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				78055.5555555555,
+				[
+					[
+						"Flash Camera(black)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84074.074074074,
+				[
+					[
+						"Flash Camera(black)",
+						"10",
+						""
+					]
+				]
+			],
+			[
+				108148.148148148,
+				[
+					[
+						"Flash Camera(black)",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Flash Camera(black)",
+						"10",
+						""
+					]
+				]
+			],
+			[
+				131296.296296296,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				156018.518518518,
+				[
+					[
+						"Flash Camera(black)",
+						"20",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-invisible",
+		"bpm": 162,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "White-Noise"
+	}
+}

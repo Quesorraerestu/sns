@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sadmouse Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sadmouse Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sadmouse Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sadmouse Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sadmouse Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase1",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "phase1",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

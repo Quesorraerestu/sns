@@ -1,0 +1,9 @@
+{
+	"directory": "suicide1",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [1070, 230],
+	"girlfriend": [550, 230],
+	"opponent": [-100, 230]
+}
